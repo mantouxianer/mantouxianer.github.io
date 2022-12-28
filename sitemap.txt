@@ -1,2 +1,4 @@
+http://example.com/2022/12/28/Shell%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/
 http://example.com/2022/12/27/hello-world/
 http://example.com/
+http://example.com/tags/shell/
