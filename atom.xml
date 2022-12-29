@@ -3,11 +3,11 @@
   <title>馒头馅儿大肉包</title>
   
   
-  <link href="https://mantouxianer.github.io/mantouxianer/atom.xml" rel="self"/>
+  <link href="https://mantouxianer.github.io/atom.xml" rel="self"/>
   
-  <link href="https://mantouxianer.github.io/mantouxianer/"/>
+  <link href="https://mantouxianer.github.io/"/>
   <updated>2022-12-28T10:01:37.712Z</updated>
-  <id>https://mantouxianer.github.io/mantouxianer/</id>
+  <id>https://mantouxianer.github.io/</id>
   
   <author>
     <name>馒头馅儿大肉包</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Shell脚本基础</title>
-    <link href="https://mantouxianer.github.io/mantouxianer/2022/12/28/Shell%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/"/>
-    <id>https://mantouxianer.github.io/mantouxianer/2022/12/28/Shell%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/</id>
+    <link href="https://mantouxianer.github.io/2022/12/28/Shell%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/"/>
+    <id>https://mantouxianer.github.io/2022/12/28/Shell%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/</id>
     <published>2022-12-28T09:43:29.000Z</published>
     <updated>2022-12-28T10:01:37.712Z</updated>
     
@@ -36,14 +36,14 @@
     
     
     
-    <category term="shell" scheme="https://mantouxianer.github.io/mantouxianer/tags/shell/"/>
+    <category term="shell" scheme="https://mantouxianer.github.io/tags/shell/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://mantouxianer.github.io/mantouxianer/2022/12/27/hello-world/"/>
-    <id>https://mantouxianer.github.io/mantouxianer/2022/12/27/hello-world/</id>
+    <link href="https://mantouxianer.github.io/2022/12/27/hello-world/"/>
+    <id>https://mantouxianer.github.io/2022/12/27/hello-world/</id>
     <published>2022-12-27T04:41:53.725Z</published>
     <updated>2022-12-27T04:41:53.725Z</updated>
     
