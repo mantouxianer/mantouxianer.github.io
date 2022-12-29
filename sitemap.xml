@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mantouxianer.github.io/posts/38236/</loc>
+    
+    <lastmod>2022-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mantouxianer.github.io/music/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://mantouxianer.github.io/posts/16107/</loc>
-    
-    <lastmod>2022-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mantouxianer.github.io/posts/52139/</loc>
     
     <lastmod>2022-12-29</lastmod>
     
@@ -117,5 +117,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://mantouxianer.github.io/categories/shell/</loc>
+    <lastmod>2022-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
