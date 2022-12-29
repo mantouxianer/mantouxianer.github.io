@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mantouxianer.github.io/about/index.html</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/about/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/tags/index.html</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/tags/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/photo/index.html</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/photo/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/link/index.html</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/link/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/categories/index.html</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/categories/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/2022/12/28/Shell%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/2022/12/28/Shell%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/2022/12/27/hello-world/</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/2022/12/27/hello-world/</loc>
     
     <lastmod>2022-12-27</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/photo/maomi/index.html</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/photo/maomi/index.html</loc>
     
     <lastmod>2022-06-16</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://mantouxianer.github.io/photo/girl/index.html</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/photo/girl/index.html</loc>
     
     <lastmod>2022-06-16</lastmod>
     
@@ -84,7 +84,7 @@
   
 
   <url>
-    <loc>https://mantouxianer.github.io/</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer</loc>
     <lastmod>2022-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -92,7 +92,7 @@
 
   
   <url>
-    <loc>https://mantouxianer.github.io/tags/shell/</loc>
+    <loc>https://mantouxianer.github.io/mantouxianer/tags/shell/</loc>
     <lastmod>2022-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
