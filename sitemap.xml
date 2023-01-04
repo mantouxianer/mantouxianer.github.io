@@ -4,7 +4,16 @@
   <url>
     <loc>https://mantouxianer.github.io/charts/index.html</loc>
     
-    <lastmod>2023-01-03</lastmod>
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mantouxianer.github.io/link/index.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -93,15 +102,6 @@
   
   <url>
     <loc>https://mantouxianer.github.io/photo/index.html</loc>
-    
-    <lastmod>2022-12-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mantouxianer.github.io/link/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
     
