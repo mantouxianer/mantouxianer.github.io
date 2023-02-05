@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mantouxianer.github.io/posts/64549/</loc>
+    
+    <lastmod>2023-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mantouxianer.github.io/network/index.html</loc>
     
     <lastmod>2023-02-05</lastmod>
@@ -170,10 +179,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://mantouxianer.github.io/tags/%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2023-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://mantouxianer.github.io/categories/shell/</loc>
+    <lastmod>2023-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mantouxianer.github.io/categories/%E8%84%9A%E6%9C%AC/</loc>
     <lastmod>2023-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
